@@ -41,7 +41,7 @@ ITEMS_PER_PAGE = 1000
 HIDE_HIDDEN_FILES = true
 
 # Set a cache header here, e.g. "max-age=86400", if you want to cache directory listings.
-DIRECTORY_CACHE_CONTROL = "max-age=14400"
+DIRECTORY_CACHE_CONTROL = "max-age=86400"
 
 # Set debugging log enabled.
 LOGGING = true
